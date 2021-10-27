@@ -26,5 +26,9 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'seng3120_geometry_calculator_gradle_java.App'
+    mainClass = 'seng3120_geometry_calculator_gradle_java.GeometryMain'
+}
+
+run {
+    standardInput = System.in
 }

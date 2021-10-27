@@ -5,7 +5,6 @@ package seng3120_geometry_calculator_gradle_java;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-import Cylinder;
 
 public class CylinderTest {
     @Test public void cylVolume() {
